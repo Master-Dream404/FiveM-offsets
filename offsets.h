@@ -1,4 +1,5 @@
 #pragma once
+#include <windows.h>
 
 /* all offset found on 03-20-2022 by !Master Dream */
 
