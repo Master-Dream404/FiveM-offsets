@@ -1,6 +1,6 @@
 #pragma once
 
-/* all offset found on 03-20-2022 */
+/* all offset found on 03-20-2022 by !Master Dream */
 
 namespace offset
 {
