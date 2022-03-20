@@ -5,7 +5,9 @@
 namespace offset
 {
 	/* net.dll */ 
-	uintptr_t netInfo = 0x1C1A2;//for server ip
+	uintptr_t serverIP = 0x1C1A2;//for server ip
+	uintptr_t g_steam_name = 0xB9050;//get user steam name
+	uintptr_t ICoreGameInit = 0xC1680;//ICoreGameInit for FiveM events and (FiveM events)
 
 	/* discord.dll */
 	uintptr_t discordmanager = 0x822E0;// this include discord name and id
