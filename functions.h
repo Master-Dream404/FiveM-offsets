@@ -14,13 +14,7 @@
 #include <WinUser.h>
 #include <ShlObj.h>
 #include <string>
-/* all offset found on 03-20-2022 */
-
-/*
-		uintptr_t citizen_resource_core_module = (uintptr_t)GetModuleHandle("citizen-resources-core.dll");
-		uintptr_t net_module = (uintptr_t)GetModuleHandle("net.dll");
-		uintptr_t console_module = (uintptr_t)GetModuleHandle("conhost-v2.dll");
-*/
+/* BY !Master Dream */
 
 namespace functions
 {
