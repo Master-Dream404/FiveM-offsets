@@ -101,7 +101,7 @@ namespace functions
 		{
 			auto LoadFile_manager = (LoadFile_call)(MetaDataLoaderModule + 0x187FE8);
 
-			value ob;
+			value obj;
 			value* metadata_ptr = &obj;
 
 			LoadFile_manager((__int64)metadata_ptr, file);
