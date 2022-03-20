@@ -8,6 +8,10 @@ namespace offset
 	uintptr_t serverIP = 0x1C1A2;//for server ip
 	uintptr_t g_steam_name = 0xB9050;//get user steam name
 	uintptr_t ICoreGameInit = 0xC1680;//ICoreGameInit for FiveM events and (FiveM events)
+	
+	/* conhost-v2.dll */ 
+	uintptr_t c_print = 0x1F530;//Console print
+	uintptr_t c_open = 0x66550;//Check if Console is open or closet
 
 	/* discord.dll */
 	uintptr_t discordmanager = 0x822E0;// this include discord name and id
