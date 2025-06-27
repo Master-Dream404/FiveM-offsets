@@ -1,5 +1,2 @@
 # FiveM-offsets
-all FiveM offsets i will update it continually
-
-
-and functions for offsets
+go to -> https://github.com/Master-Dream404/FiveM-Offsets-Dumper to get all the new offsets.
